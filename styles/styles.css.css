@@ -10,7 +10,10 @@ nav a {
 }
 
 h1 {
-    color: darkblue;
+    background-color: darkblue;
+    color: white;
+    padding: 16px;
+    text-align: center;
 }
 
 img {
@@ -22,7 +25,8 @@ img {
 }
 
 p {
-    padding: 0;
+    padding: 10px;
+    ;
 }
 
 main {
